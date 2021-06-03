@@ -13,3 +13,20 @@ I chose to study at RMIT as i needed a course which i could study online and had
 Ideal Job
 Junior Cloud Infrastructure Engineer
 https://www.seek.com.au/job/52392465?type=standout#searchRequestToken=86289df7-8324-4f9e-b0c7-218df43c83a6
+
+
+
+Overview
+
+Storage app on the android
+- needs code to access
+- after 3 incorrect password attempts it wipes the local storage
+of the app
+- Before it wipes it locks the app and uploads all the content
+to a different place in the cloud
+
+For my project I will be developing a android application that will act as a place to hide files from unwanted users. Unlike the many applications already existing like this, the app will be encrypted with a erases function that occurs when three incorrect password attempts have occurred. To counter this function the app will be linked to a cloud storage.
+
+Motivation
+
+The incentive behind developing this project is to gain knowledge in android development. The program will be written in Java
