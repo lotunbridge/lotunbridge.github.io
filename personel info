@@ -29,4 +29,24 @@ For my project I will be developing a android application that will act as a pla
 
 Motivation
 
-The incentive behind developing this project is to gain knowledge in android development. The program will be written in Java
+The incentive behind developing this project is to gain knowledge in android development, python and encryption methods. In the current market there is a gap in a soultion like the one this application could protenitally achieve if developed.
+
+Tools and Technologies:
+The software required for this project will include a Android developement environment and OS, python as the coding language. 
+Hardware needed will be a PC for developing and a Android device however the ability to use a android emulator on a PC is an option.
+The project will require a knowledge of python and android development, the cost of the project will be NIL since i own a Windows PC and Android device
+
+Description:
+The application will be an encrypted soultion to hidding files from unauthorised users on their personel android devices. 
+The features of the application will include:
+- A place where users can store files
+- A multi-factor authentication
+- Self delete feature after three incorrect password attemtpts 
+- A cloud soultion
+- Easy to use user interface
+
+The idea behind the application is to fill a potentional gap in the market where users require a more secure way to hide sensitive files
+Just like the famous "calculator" app, this project will act in a similar way. There will be a multi factor authnithication to protect the sensitive files for unathorised users.
+Another feature the application will have is an encrytpion on the files in the folder. This will help with protecting the sensitive files.
+The big diffrence between my project and the rest of the avaliable apps is two features. The first feature is a self destruct function will activate after three inncorect attempts at accessing the application.
+After three inncorrect attempts the folder which holds the sensitive files will be erassed from the device 
