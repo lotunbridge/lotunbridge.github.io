@@ -49,4 +49,10 @@ The idea behind the application is to fill a potentional gap in the market where
 Just like the famous "calculator" app, this project will act in a similar way. There will be a multi factor authnithication to protect the sensitive files for unathorised users.
 Another feature the application will have is an encrytpion on the files in the folder. This will help with protecting the sensitive files.
 The big diffrence between my project and the rest of the avaliable apps is two features. The first feature is a self destruct function will activate after three inncorect attempts at accessing the application.
-After three inncorrect attempts the folder which holds the sensitive files will be erassed from the device 
+After three inncorrect attempts the folder which holds the sensitive files will be erassed from the device. Clearly this is not ideal for the majority of the users beacuse yes the data is safe from unwated eyes but now it is gone. To combat this
+the files will be sent to the cloud where the user has the freedom to move their files back if need be.
+
+Outcome
+When the project is finished it will fill a gap in the market for a disguised application that will not only protect data but also
+
+
